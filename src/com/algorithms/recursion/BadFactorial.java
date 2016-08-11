@@ -1,4 +1,4 @@
-package com.algortithms.recursion;
+package com.algorithms.recursion;
 /**
  * This example builds on the Factorial example in {@link Factorial}
  * 

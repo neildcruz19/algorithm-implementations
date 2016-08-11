@@ -1,4 +1,4 @@
-package com.algortithms.recursion;
+package com.algorithms.recursion;
 
 /**
  * Re-implementing the Linear search from {@link LinearSearch} or {@link BetterLinearSearch}

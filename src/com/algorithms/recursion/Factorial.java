@@ -1,4 +1,4 @@
-package com.algortithms.recursion;
+package com.algorithms.recursion;
 
 /**
  * Factorial implementation using recursion
